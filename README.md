@@ -36,10 +36,10 @@ This project is a three-page Power BI report built for **Asiwaju Insurance Pvt. 
 ## 🖼 Dashboard Preview
 
 ### Page 1: Policy & Claims Overview
-![Policy and Claims Overview](./images/Ins1.png)
+![Policy and Claims Overview](./Ins1.png)
 
 ### Page 2: Customer Feedback & Sentiment Analysis
-![Customer Feedback and Sentiment Analysis](./images/Ins2.png)
+![Customer Feedback and Sentiment Analysis](./Ins2.png)
 
 ### Page 3: Table
 
